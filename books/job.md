@@ -664,6 +664,6 @@ will ask for something else entirely.
 - Word-by-word Strong's numbers: `books/job-strongs.md`, generated from the OpenScriptures
   Hebrew Bible (MorphHB), 26 October 2026. A reference file, not law.
 - English-to-Hebrew key by Strong's numbers: `books/job-hebrew-key.md`, word for word: every
-  word this volume prints, in order, with its Hebrew word and number, and the Hebrew a word of
-  the volume leaves unrendered is shown rather than hidden. Hand-aligned, machine-verified
-  against the same tagged text, 26 October 2026. A reference file, not law.
+  word this volume prints, in order, with its Hebrew word and number, glossed from
+  Brown-Driver-Briggs (1906), public domain, served by biblicalstudies.org.uk. Hand-aligned,
+  machine-verified against the same tagged text, 26 October 2026. A reference file, not law.
