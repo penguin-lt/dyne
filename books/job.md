@@ -661,3 +661,5 @@ will ask for something else entirely.
   studybible.info, 26 October 2026.
 - No critical apparatus, daughter versions, lexicon or grammar was consulted in the making of
   this chapter, and the notes mark the claims that would need them.
+- Word-by-word Strong's numbers: `books/job-strongs.md`, generated from the OpenScriptures
+  Hebrew Bible (MorphHB), 26 October 2026. A reference file, not law.
