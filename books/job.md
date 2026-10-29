@@ -6,7 +6,7 @@
 
 ```
 JOB SPECIFICATION
-  Volume:             Job 1-3 (verses 1:1-1:22, 2:1-2:13, 3:1-3:26)
+  Volume:             Job 1-4 (verses 1:1-1:22, 2:1-2:13, 3:1-3:26, 4:1-4:21)
   Base translation:   J. N. Darby, The Holy Scriptures (1890), public domain,
                       retrieved 26 October 2026
   Textual base OT:    Leningrad Codex text of Job, as served by the Sefaria API,
@@ -492,9 +492,170 @@ arrives at Job. The poem ends by handing him the wicked's word, and stops there.
 
 ---
 
+**About chapter 4.** The friends speak. Eliphaz the Temanite answers first, and the received
+sections keep the form: verse 1 is the prose hinge, and verses 2-21 are the speech, set as
+stanzas (Law VII). The speech's shape is his argument: what Job was, what Job now is, the
+principle that explains the difference, and the night experience the principle rests on. The
+notes report the shape. Whether the argument holds is the book's question, and not this
+chapter's to answer.
+
+---
+
+## The translation, chapter 4
+
+Then Eliphaz the Temanite answered and said:
+
+> If someone ventures a word at you,
+> will you be wearied?
+> And who can hold back from words?
+
+> See, you instructed many,
+> and feeble hands you strengthened.
+> Your words raised the stumbling,
+> and buckling knees you braced.
+
+> But now it comes to you, and you are wearied.
+> It touches you, and you are dismayed.
+> Is not your fear of God your confidence,
+> your hope — the integrity of your ways?
+
+> Remember: who that was innocent perished?
+> And where were the upright blotted out?
+> As I have seen: those who plow wickedness
+> and sow trouble reap it.
+> By the breath of God they vanish,
+> and by the wind of his nostrils they are consumed.
+
+> The roar of the lion, and the voice of the fierce lion,
+> and the teeth of the young lions are broken.
+> The great lion perishes without prey,
+> and the lioness's cubs are scattered.
+
+> And a word was stolen to me.
+> My ear took a whisper of it,
+> in thoughts from the visions of the night,
+> when deep sleep falls on men.
+> Fear called to me, and trembling,
+> and the multitude of my bones made me shudder.
+> A breeze glided past my face,
+> and the hair of my flesh bristled.
+> It stood still — I could not recognize its form:
+> a figure before my eyes.
+> Stillness — and I heard a voice:
+
+> "Can a mortal be in the right beside God?
+> Can the strong man be pure beside his Maker?"
+
+> See, in his servants he puts no trust,
+> and his messengers he sets blame on.
+> How much more the dwellers of houses of clay,
+> whose foundation is in the dust,
+> crushed like a moth!
+> Between morning and evening they are pounded.
+> Unnoticed, they perish forever.
+> Is their tent-cord not pulled up within them?
+> They die, and not in wisdom.
+
+---
+
+## The notes, chapter 4
+
+**4:1 "Then Eliphaz the Temanite answered and said"** — The prose hinge, as at 3:1. Eliphaz
+answered a poem with a poem: the book's debates are conducted in verse from here to the end of
+the speeches. "Answered" — the word for reply in dispute, and it prints before anyone has
+officially accused anyone of anything.
+
+**4:2 "If someone ventures a word at you"** — נִסָּה is the verb of testing and trial, the
+verb this book exists to explore: Eliphaz opens his comfort by running a test on Job. "Will
+you be wearied?" — the word is תִּלְאֶה, and Eliphaz harvests it two verses later. "Who can
+hold back from words" — the friends' whole project in one clause: they cannot not speak.
+
+**4:3 "See, you instructed many"** — The pointer הִנֵּה by function (4.1, Rule 3): Eliphaz
+points at the resume. The verbs are body verbs — hands strengthened, the stumbling raised.
+
+**4:4 "buckling knees you braced"** — The knees of 3:12, where Job asked why knees received
+him at all. Eliphaz's memory of Job is made of the same body-imagery as Job's curse, and the
+reader has just spent a chapter inside that imagery. The echo is the author's and prints.
+
+**4:5 "But now it comes to you, and you are wearied"** — The harvest: the same verb, תָּלֵא,
+that carried his opening question. The word Eliphaz planted as hypothesis is now diagnosed as
+symptom. "It touches you" — the same verb the accuser asked to "touch" all Job had at 1:11
+and 2:5. The verse does not say who Eliphaz thinks is touching, and the note does not guess.
+
+**4:6 "Is not your fear of God your confidence"** — Job's resume handed back as an argument:
+the fear of God that 1:1 and 1:8 credited is Eliphaz's "confidence", and the integrity, תֹם,
+is his "hope". The nouns are the tale's own. What Eliphaz means by them, this verse does not
+say.
+
+**4:7 "Remember: who that was innocent perished"** — The principle, stated as a question
+because a question asserts without defending. Innocence and survival, bound together. The
+speech's whole weight hangs on this sentence, and this chapter prints it without
+adjudicating it: the book argues with it, and the argument is not here.
+
+**4:8 "sow trouble reap it"** — עָמָל, the word the day of Job's birth failed to hide from his
+eyes at 3:10. Here it is seed with a harvest. The insinuation — that Job's crop proves his
+planting — is carried by the rhetoric and never stated, and the note reports the mechanism
+without endorsing it.
+
+**4:9 "the wind of his nostrils"** — אַף is nose and nostril, and the wrath is in the body:
+destruction as exhalation (Law II). "God" here is אֱלוֹהַּ, the poetic singular (4.2), which
+is becoming this book's regular divine word in the speeches.
+
+**4:10 "the teeth of the young lions are broken"** — The Hebrew has five words for lion in
+two verses, where English has two: the roaring lion, the fierce lion (שַׁחַל), the young
+lions, the great lion (לַיִשׁ), and the lioness's cubs. The poem dismantles the pride member
+by member. The exact shades of שַׁחַל and לַיִשׁ are not settled, and the rendering "fierce"
+and "great" is the tradition's best, recorded here as best rather than certain.
+
+**4:12 "And a word was stolen to me"** — The verb is theft. Revelation arrives as something
+smuggled in to the ear, and the word "whisper" is a rare one — its sense is a fragment, a
+scrap of sound. The night experience begins with the ear, not the eye.
+
+**4:13 "in thoughts from the visions of the night"** — The Hebrew word rendered "thoughts"
+occurs only in this verse. It is printed as the tradition's settled rendering of an unsettled
+word, and the note says so rather than smoothing it (6.3). "Deep sleep" is the heavy sleep of
+revelation, not ordinary sleep.
+
+**4:14 "the multitude of my bones made me shudder"** — The bones are the subject of the
+verb: the terror is in the skeleton, and the skeleton speaks (Law II). Darby's "made all my
+bones to shake" smooths the grammar. The Hebrew makes the bones themselves the trembling
+multitude.
+
+**4:15 "the hair of my flesh bristled"** — The body prints again, hair by hair. "A breeze" —
+רוּחַ is the word 4.2 renders "spirit / breath / wind" by context, and this verse is the
+context before recognition: it is a breeze until it stands still.
+
+**4:16 "Stillness — and I heard a voice"** — דְּמָמָה is the silence itself, held as a beat
+before the voice arrives. The vision has no face: "I could not recognize its form", and what
+is not given is not supplied.
+
+**4:17 "Can a mortal be in the right beside God"** — Two words for the human in one verse:
+the mortal (אֱנוֹשׁ), the strong man (גֶּבֶר) — the same word the night of 3:3 announced at
+Job's conception. The night that said "a strong man is conceived" now asks whether the strong
+man can be pure. The speech is stitched to the curse with the book's own thread.
+
+**4:18 "his messengers he sets blame on"** — The premise the argument needs: even the court
+is faulted, so how much more the clay. The word is תֹהֳלָה, blame. It resembles the word
+"folly" at 1:22, and resembles is all it does — they are different words, and this note will
+not dress one as the other. What the spirit's claim does to the council scenes of chapters 1
+and 2 is the book's problem, not this verse's.
+
+**4:19 "dwellers of houses of clay"** — The body as architecture: clay walls, a foundation of
+dust, and the tenant crushed "like a moth" — the fragility runs both directions at once, the
+moth as what a finger grinds and what a touch kills. The verb's agent is unstated, and prints
+unstated.
+
+**4:21 "Is their tent-cord not pulled up within them"** — Life as a pitched tent, and the
+odd phrase prints as given: the cord is drawn up *within them*, the collapse runs from
+inside. "They die, and not in wisdom" — the spirit's verdict on the whole species, blunt to
+the end of the speech. Eliphaz's argument closes with death without wisdom. Job's next speech
+will ask for something else entirely.
+
+---
+
 ## Sources
 
-- Hebrew text: the Leningrad Codex text of Job 1-3, served by the Sefaria API, retrieved
+- Hebrew text: the Leningrad Codex text of Job 1-4, served by the Sefaria API, retrieved
   26 October 2026.
 - Base translation: J. N. Darby, *The Holy Scriptures* (1890), public domain, retrieved from
   studybible.info, 26 October 2026.
