@@ -6,7 +6,7 @@
 
 ```
 JOB SPECIFICATION
-  Volume:             Job 1-2 (verses 1:1-1:22, 2:1-2:13)
+  Volume:             Job 1-3 (verses 1:1-1:22, 2:1-2:13, 3:1-3:26)
   Base translation:   J. N. Darby, The Holy Scriptures (1890), public domain,
                       retrieved 26 October 2026
   Textual base OT:    Leningrad Codex text of Job, as served by the Sefaria API,
@@ -330,9 +330,171 @@ is bodily pain — כְּאֵב — not "grief". It prints as pain.
 
 ---
 
+**About chapter 3.** The prose tale ends here. What opens at 3:1 is the first of the book's
+poems: Job's curse of the day of his birth, the shortest and coldest speech he makes. Genre,
+curse-song, and the received sections keep the door of it: verses 1-2 are the prose hinge, and
+verses 3-26 are the poem, per the open-section marks in the Leningrad text. Layout is stanzas
+keeping the parallelism (Law VII). The received section marks divide the prose hinge
+(verses 1-2) from the poem (verses 3-26).
+
+---
+
+## The translation, chapter 3
+
+After this, Job opened his mouth and cursed his day. Job answered and said:
+
+> Let the day perish on which I was born,
+> and the night that said: A man is conceived.
+> That day: let it be darkness.
+> Let God above not seek it out, and let no light shine on it.
+> Let darkness and death's shadow claim it.
+> Let a cloud-mass settle on it.
+> Let the blackness of the day terrify it.
+
+> That night: let thick darkness seize it.
+> Let it not rejoice among the days of the year.
+> Let it not come into the count of the months.
+> See, let that night be barren.
+> Let no shout of joy come into it.
+> Let the day's cursers lay hold of it —
+> the ones ready to rouse Leviathan.
+> Let its twilight stars go dark.
+> Let it wait for light, and there be none.
+> And let it not see the eyelids of dawn.
+
+> For it did not shut the doors of my belly,
+> and it hid trouble from my eyes.
+
+> Why did I not die from the womb?
+> Come out of the belly, and expire?
+> Why did the knees receive me,
+> and why the breasts, that I should suck?
+
+> For now I would have lain down and been quiet.
+> I would have slept. Then there would be rest for me,
+> with the kings of the earth and its counselors,
+> who built ruins for themselves,
+> or with princes who had gold,
+> who filled their houses with silver.
+> Or I would have been like a hidden stillbirth,
+> like infants that never saw the light.
+
+> There the wicked cease from raging.
+> There the weary of strength are at rest.
+> Together, prisoners are at ease.
+> They do not hear the taskmaster's voice.
+> Small and great are there,
+> and the slave is free of his master.
+
+> Why is light given to the miserable,
+> and life to the bitter of self,
+> who wait for death, and it does not come,
+> who dig for it more than for hidden treasures,
+> who rejoice to exultation, and are glad,
+> when they find the grave —
+> to a man whose way is hidden,
+> and whom God has fenced in?
+
+> For my sighing comes before my bread,
+> and my roarings pour out like water.
+> For I feared a fear, and it has come upon me.
+> What I dreaded has come to me.
+> I was not at ease. I was not quiet. I had no rest.
+> And raging came.
+
+---
+
+## The notes, chapter 3
+
+**3:1 "opened his mouth and cursed his day"** — The verb is the plain word for cursing, and it
+is the first open use of it in the book. Four times the idiom hid "curse" behind "bless" (1:5,
+1:11, 2:5, 2:9). What Job was suspected of doing in secret, he now does out loud, with the open
+word, and the narrator states it without flinching. The verse ends the prose: everything after
+this until chapter 42 is speech.
+
+**3:3 "Let the day perish on which I was born"** — The poem opens in the jussive, the grammar
+of command applied to the calendar, and the poem never leaves it: nineteen of its lines wish
+something on that day and that night. "A man is conceived" — the word for the man is the strong
+one, the male as strength.
+
+**3:4 "Let God above not seek it out"** — "Seek out" is the verb of inquiring after a person.
+God is asked to un-notice the day. "God" here is אֱלוֹהַּ, the poetic singular 4.2 notes as
+unusual, and this poem uses it more than any other chapter so far.
+
+**3:5 "Let darkness and death's shadow claim it"** — "Claim" is the kin-redeemer's verb, the
+one that recovers property for the family. Darkness is asked to redeem the day as its own.
+"The blackness of the day" — the noun occurs here alone in the Hebrew Bible, and the note says
+so rather than pretending otherwise.
+
+**3:7 "See, let that night be barren"** — The pointer הִנֵּה by function (4.1, Rule 3): the
+shock is that a night is being asked to have conceived nothing at all. The counter-image to
+3:3, where the night announced a conception.
+
+**3:8 "the ones ready to rouse Leviathan"** — The poem calls for professional cursers, the
+kind whose curse works, who know the incantation able to wake the chaos serpent — as if that
+day were beyond ordinary cursing. Leviathan is named and not explained. The verse takes the
+divine-realm mythology as known to its hearers, and prints it unflattened (4.2). What waking
+Leviathan would do is not said here, and the note does not supply it.
+
+**3:9 "the eyelids of dawn"** — Dawn's eyes, with their lashes, are the poem's own body image,
+and it prints as given. The verse completes the day's destruction in reverse order: stars,
+light, the dawning itself.
+
+**3:10 "it did not shut the doors of my belly"** — בֶּטֶן is the organ (Law II), and the Hebrew
+says "my belly", not "my mother's womb" — the mother is supplied by every English tradition,
+including the base translation, and is absent here. The day is charged with negligence: it had
+one job, closing the womb's doors, and it failed. "Trouble" is the word that comes back at
+3:26 and at 3:17.
+
+**3:11 "Come out of the belly, and expire"** — The wish is a birth in reverse: out of the
+womb, straight into death. The second verb is the breath going out, and it prints as that.
+
+**3:12 "Why did the knees receive me"** — The newborn was set on the knees to be claimed, and
+the verse asks why the claiming happened. "Receive" is the modern of the base translation's
+"meet", which has drifted.
+
+**3:14 "who built ruins for themselves"** — The paradox is the Hebrew's own: kings built
+ruins, and the English keeps the paradox. Read forward, their monuments. Read backward, their
+burial. The note offers the reading and does not choose.
+
+**3:16 "a hidden stillbirth"** — נֶפֶל, the miscarried or stillborn child, printed as the
+thing itself (Law II), not folded into euphemism. The infants "that never saw the light" carry
+the same image the poem wishes on its own night in reverse.
+
+**3:17 "There the wicked cease from raging"** — The grave as the one place the cycle stops.
+"Raging" is the verse's word for the restless trouble of the wicked, and it is the word the
+poem hands back at 3:26 with Job as its object.
+
+**3:19 "the slave is free of his master"** — עֶבֶד is "slave" (4.2), and חָפְשִׁי is the
+emancipation word. The poem's starkest line: in death the institution lets go. It prints
+without commentary.
+
+**3:20 "the bitter of self"** — נֶפֶשׁ is "life / self" (4.2), never an immortal component:
+the bitter of self is the person soured through. "Dig for it more than for hidden treasures" —
+they dig for death as for buried silver, and the image is the poem's, not the note's.
+
+**3:23 "whom God has fenced in"** — The fence of 1:10, with the parties reversed: there the
+accuser complained God had fenced Job about in protection, and here Job names the fence with
+God doing the fencing, as siege. Same figure, same root, opposite door. The note reports the
+reversal and does not referee it (Law VI).
+
+**3:24 "my roarings pour out like water"** — The word is a lion's roar, not a groan, and the
+verb is what water does when the container fails. "Before my bread": the sighing arrives
+first, at the table.
+
+**3:25 "I feared a fear"** — The Hebrew uses the same root twice, fear in the abstract and
+fear in the act, and the English keeps the doubling. What Job feared is not named. The reader
+who supplies "exactly this" is reading the whole book, and this verse does not yet say it.
+
+**3:26 "I was not at ease. I was not quiet. I had no rest. And raging came."** — Three
+negations in a row, then the verb from 3:17 — the restlessness that belonged to the wicked
+arrives at Job. The poem ends by handing him the wicked's word, and stops there.
+
+---
+
 ## Sources
 
-- Hebrew text: the Leningrad Codex text of Job 1-2, served by the Sefaria API, retrieved
+- Hebrew text: the Leningrad Codex text of Job 1-3, served by the Sefaria API, retrieved
   26 October 2026.
 - Base translation: J. N. Darby, *The Holy Scriptures* (1890), public domain, retrieved from
   studybible.info, 26 October 2026.
