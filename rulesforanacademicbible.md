@@ -434,7 +434,7 @@ though it were the Hebrew. Not here.
 | בְּנֵי אֱלֹהִים | **sons of God** | the divine council is preserved |
 | אֱלֹהִים in the council (Psalms 82:1) | **gods** | not "judges" |
 | אֵל עֶלְיוֹן | **God Most High** | |
-| שָׂטָן | **adversary** | raw in the Hebrew. ὁ διάβολος is **the Adversary** |
+| שָׂטָן | **the accuser** | a common noun with the article, lower case by instruction 33. The New Testament ὁ διάβολος is not settled by that instruction |
 
 **Christological and ecclesial vocabulary**
 
@@ -511,7 +511,7 @@ Israelite, Pauline, Johannine, Maccabean, Hasmonean.
    plain words do not carry. "I am" is never printed "I AM". The manuscripts have no capitals, so
    every capital in a modern translation is an editorial decision, and a lawful capital has exactly
    two uses: a proper name, and a fixed title the language treats as one — "the Word", "Lord" as
-   address, "Messiah", "Rock", "the Adversary", "the one and only Son". A capital may never settle
+   address, "Messiah", "Rock", "the one and only Son". A capital may never settle
    an open ambiguity: "god" prints lower case at John 1:18 and "son" lower case at Psalms 2:12.
    The same word in the same sense prints the same way in every verse, **unless a standing
    instruction fixes the printing** (Part 8, items 30 to 32).
@@ -971,6 +971,8 @@ absence, because it removes the reader's reason to check.
 30. John 1:1 prints "and the Word was a god."
 31. John 1:18 prints "the one and only god", both words lower case.
 32. John 20:28 prints the definite.
+33. הַשָּׂטָן is "the accuser", lower case, in every occurrence. The New Testament ὁ διάβολος is
+    not settled by this instruction.
 
 ## 8.1 Open items
 
