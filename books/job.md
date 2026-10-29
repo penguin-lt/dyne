@@ -6,7 +6,7 @@
 
 ```
 JOB SPECIFICATION
-  Volume:             Job 1 (verses 1:1-1:22)
+  Volume:             Job 1-2 (verses 1:1-1:22, 2:1-2:13)
   Base translation:   J. N. Darby, The Holy Scriptures (1890), public domain,
                       retrieved 26 October 2026
   Textual base OT:    Leningrad Codex text of Job, as served by the Sefaria API,
@@ -201,10 +201,139 @@ says Job did not "give" folly to God. "Attribute" is the English idiom for that 
 
 ---
 
+**About chapter 2.** The tale continues in the same prose: the second wager, the strike on the
+man himself, the wife, and the arrival of the three friends. The received paragraphing is kept:
+the Leningrad text breaks after verse 10, at the close of the exchange with the wife. The
+printed text carries editorial brackets on one word at 2:7, as at 1:10, and the note reports
+them where they bear on the rendering.
+
+---
+
+## The translation, chapter 2
+
+Now one day the sons of God came to present themselves before Jahve, and the accuser came
+among them too, to present themselves before Jahve. Jahve said to the accuser:
+
+> "Where do you come from?"
+
+The accuser answered Jahve:
+
+> "From roaming the earth, and walking about in it."
+
+Jahve said to the accuser:
+
+> "Have you set your heart on my servant Job? There is none like him on the earth: a man
+> blameless and upright, who fears God and turns aside from evil. And he is still holding fast
+> his blamelessness — though you incited me against him, to swallow him for nothing."
+
+The accuser answered Jahve:
+
+> "Skin for skin! All that the man has he will give for his life. But stretch out your hand
+> now, and touch his bone and his flesh — surely to your face he will bless you."
+
+Jahve said to the accuser:
+
+> "See, he is in your hand. Only spare his life."
+
+And the accuser went out from the presence of Jahve, and struck Job with an evil inflammation,
+from the sole of his foot to his crown. He took a potsherd to scrape himself with, and sat in
+the midst of the ashes. His wife said to him:
+
+> "Are you still holding fast your blamelessness? Bless God, and die."
+
+He said to her:
+
+> "You speak as one of the foolish women speaks. Shall we take the good from God, and not take
+> the evil?"
+
+In all this Job did not sin with his lips.
+
+The three friends of Job heard all this evil come upon him, and came, each from his place:
+Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite. They met together to come
+lament for him and comfort him. They lifted their eyes from afar, and did not recognize him.
+They lifted their voices and wept, each tore his robe, and they threw dust on their heads
+toward the heavens. They sat with him on the ground seven days and seven nights, and none
+spoke a word to him, for they saw that the pain was very great.
+
+---
+
+## The notes, chapter 2
+
+**2:1 "Now one day the sons of God came"** — The council scene opens with the same formula as
+1:6, and the chapter prints the repeat. The scene's second "to present themselves" — the
+Hebrew infinitive does not mark who presents: the whole company, or the accuser alone. English
+must choose, and the rendering reads it with the company. The other reading is this note's to
+carry.
+
+**2:2 "Where do you come from?"** — The exchange repeats 1:7 almost word for word: the answer
+is identical, the question differs by one small deictic particle in the Hebrew (literally,
+"where from here do you come"). The answer's word-identity is the author's and prints.
+
+**2:3 "Have you set your heart on my servant Job?"** — The verdict speech repeats 1:8 verbatim
+and adds two clauses. "Blamelessness" is from the same root as 1:1 "blameless": God's
+description repeats the narrator's first words about Job. "You incited me against him, to
+swallow him for nothing" — God says the incitement was aimed at him, and the verb is the one
+for instigation, always to something bad. "To swallow him" is destruction as eating. "For
+nothing" is the accuser's own word from 1:9, and it recurs here in God's mouth.
+
+**2:4 "Skin for skin"** — The proverb prints as the image it is, and its sense is spelled out
+in its second half: all the man has, he will give for his own life. "His life" is נַפְשׁוֹ, the
+word 4.2 renders "life / self", never an immortal component.
+
+**2:5 "touch his bone and his flesh"** — The body named as body, bone and flesh (Law II). "He
+will bless you" — the euphemism again (1:5, 1:11). The Hebrew says "bless", the sense is
+"curse", the idiom prints as written and the note carries it. The base translation resolves
+the idiom to "curse". This text does not.
+
+**2:6 "Only spare his life"** — The verb is "keep, guard". The wager's limit moves: at 1:12
+Job's person was beyond the accuser's hand, and here only his life is. The movement is
+reported, not adjudicated.
+
+**2:7 "an evil inflammation"** — רַע is "evil", the word Law III guards, and it prints where
+the base translation softened it to "grievous". The same word stands in the friends' report at
+2:11. "From the sole of his foot to his crown" — the body from end to end, printed as a
+location and not generalized to "entirely". The printed text carries editorial brackets on
+"to" here, as at 1:10. The rendering follows the received vocalization, and the brackets'
+resolution stands unconfirmed: no critical apparatus was consulted this session.
+
+**2:8 "a potsherd to scrape himself with"** — The instrument of managing the disease, printed
+as the object it is. "In the midst of the ashes" — the grammar allows "the ash heap", the town
+burning-place, as well as "the ashes". The literal prints, and the alternative is the note's
+to carry.
+
+**2:9 "Bless God, and die"** — The euphemism at its harshest (1:5, 1:11, 2:5): she says
+"bless", the sense is "curse", and neither the text nor the note resolves it. "Are you still
+holding fast your blamelessness?" — her words take the same verb and the same noun as God's at
+2:3. The echo is the author's and prints. The base translation resolves the idiom to
+"renounce". This text does not.
+
+**2:10 "one of the foolish women" / "Shall we take the good from God, and not take the
+evil?"** — The Hebrew has no interrogative particle in the second clause. The rhetorical force
+is carried by the parallelism. "The evil" is רָעָה, Law III's word. "Did not sin with his
+lips" — 1:22 said Job did not sin, and this verse narrows the scope to his lips. The
+narrator's own statement moves, and the translation prints the movement without refereeing it
+(Law VI).
+
+**2:11 "The three friends of Job"** — The book's other principals enter, each named with his
+region, and the gentilics stay. "All this evil" — the narration itself calls what came on him
+"evil", and prints it. "To lament for him and comfort him" — both verbs print. What the
+comfort turns out to be is not this chapter's to say.
+
+**2:12 "did not recognize him"** — From a distance the disease had made the man
+unrecognizable, and the verse prints the fact plainly. "Each tore his robe" — the mourning act
+Job performed alone at 1:20. "They threw dust on their heads toward the heavens" — the dust is
+thrown up and falls back down, and the direction prints as the Hebrew gives it.
+
+**2:13 "seven days and seven nights"** — The mourning period, and the friends' first act is
+silence. The verse gives its own reason: "they saw that the pain was very great", and the word
+is bodily pain — כְּאֵב — not "grief". It prints as pain.
+
+---
+
 ## Sources
 
-- Hebrew text: the Leningrad Codex text of Job 1, served by the Sefaria API, retrieved 26
-  October 2026.
+- Hebrew text: the Leningrad Codex text of Job 1-2, served by the Sefaria API, retrieved
+  26 October 2026.
 - Base translation: J. N. Darby, *The Holy Scriptures* (1890), public domain, retrieved from
   studybible.info, 26 October 2026.
 - No critical apparatus, daughter versions, lexicon or grammar was consulted in the making of
